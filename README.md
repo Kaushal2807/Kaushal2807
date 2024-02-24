@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Patel Kaushal</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal2807&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal2807" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal2807" alt="kaushal2807" /></a> </p>
+<p>
+  <em>
+    <ul>
+        <li>🎓 3rd Year Undergraduate at <a href="https://www.srmist.edu.in/">Drs. Kiran and Pallavi Patel Global University</a></li>
+<!--         <li>👨‍💻 Aspiring Software Developer 🚀</li> -->
+<!--         <li>🎨 Design Enthusiast 🎨</li> -->
+<!--         <li>🌟 Obsessed with continuous learning and self-improvement</li> -->
+             <li>📊 Data Science Projects: Exploratory data analysis, machine learning models, and data visualization.</li>
+             <li>🚀 HTML Projects: Web pages, forms, and interactive elements.</li>
+             <li>🖥️ JavaScript Projects: Front-end interactivity, animations, and dynamic content.</li>
+             <li>🎨 Tailwind CSS Projects: Responsive designs, utility-first styling, and clean UI.</li>
+             <li>🔍 Data Analytics: Insights, trends, and patterns from various datasets.</li>
+             <li>📚 Learning Resources: Notes, tutorials, and code snippets.</li>
+    </ul>
+  </em>  
+</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal2807&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal2807" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,7 +73,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal2807&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="kaushal2807" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal2807&theme=dark" alt="kaushal2807" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal2807&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="kaushal2807" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal2807&theme=dark" alt="kaushal2807" /></p>
+
