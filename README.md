@@ -15,7 +15,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="padding: 10px 10px 10px 10px"/>
     </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="padding-right: 10px;">
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="padding: 10px 10px 10px 10px"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding-right: 10px;">
