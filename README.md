@@ -3,7 +3,7 @@
 <p>
   <em>
     <ul>
-        <li>🎓 3rd Year Undergraduate at <a href="https://kpgu.ac.in/">Drs. Kiran and Pallavi Patel Global University</a></li>
+        <li>🎓 3rd Year Undergraduate at <a href="https://kpgu.ac.in/">Drs. Kiran and Pallavi Patel Global University.</a></li>
 <!--         <li>👨‍💻 Aspiring Software Developer 🚀</li> -->
 <!--         <li>🎨 Design Enthusiast 🎨</li> -->
 <!--         <li>🌟 Obsessed with continuous learning and self-improvement</li> -->
