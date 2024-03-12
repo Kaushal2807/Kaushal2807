@@ -12,7 +12,7 @@
              <li>🖥️ JavaScript Projects: Front-end interactivity, animations, and dynamic content.</li>
              <li>🎨 Tailwind CSS Projects: Responsive designs, utility-first styling, and clean UI.</li>
              <li>🔍 Data Analytics: Insights, trends, and patterns from various datasets.</li>
-             <li>📚 Learning Resources: Notes, tutorials, and code snippets.</li>
+<!--              <li>📚 Learning Resources: Notes, tutorials, and code snippets.</li> -->
     </ul>
   </em>  
 </p>
